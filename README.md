@@ -22,4 +22,4 @@ I'm a 3rd-year student with expertise in **Machine Learning**, **Generative AI**
 - Streamlit
 
 ## 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=swarnojitmaitra&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=swarnojit&show_icons=true&theme=dark)
