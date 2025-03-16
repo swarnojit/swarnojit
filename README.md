@@ -3,50 +3,50 @@
 
 ---
 
-🌟 **About Me**  
-🎓 **3rd-year Student** specializing in **Data Science, Machine Learning, Deep Learning, and Generative AI**  
-🔍 Passionate about **AI-driven solutions** & developing real-world impactful projects  
-🛠️ Love working with **Streamlit, Power BI, and AI-based automation**  
-📈 Constantly learning & exploring the latest trends in **AI & Data Science**  
+🌟 **About Me**<br>
+🎓 **3rd-year Student** specializing in **Data Science, Machine Learning, Deep Learning, and Generative AI**<br>
+🔍 Passionate about **AI-driven solutions** & developing real-world impactful projects<br>
+🛠️ Love working with **Streamlit, Power BI, and AI-based automation**<br>
+📈 Constantly learning & exploring the latest trends in **AI & Data Science**
 
 ---
 
-### 🔥 Tech Stack  
+### 🔥 Tech Stack
 
-#### 🧠 **AI & ML**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)  
+#### 🧠 **AI & ML**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"><br>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFBB2C?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
 
-#### 🛠 **Development & Tools**  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+#### 🛠 **Development & Tools**<br>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"><br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"><br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
-#### 📊 **Data Science & Visualization**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-2E2E2E?style=for-the-badge&logo=python&logoColor=white)  
-
----
-
-### 🚀 Projects  
-
-🔹 **[MIRA: AI Mental Health Chatbot](https://github.com/SwarnojitMaitra/MIRA)** – A chatbot for mental health support using Gemini AI  
-🔹 **AI-Powered Video Summarizer** – Transcribes, translates & summarizes videos using Whisper & Transformers  
-🔹 **Automated Instagram Bot** – AI-driven bot for influencer engagement & marketing  
-🔹 **MetaMark: AI Social Media Manager** – Automates content & marketing campaigns with AI  
+#### 📊 **Data Science & Visualization**<br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"><br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"><br>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"><br>
+<img src="https://img.shields.io/badge/Seaborn-4C78A6?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
 
 ---
 
-### 📫 Connect with Me  
+### 🚀 Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swarnojitmaitra)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SwarnojitMaitra)  
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:maitras600@gmail.com)  
+🔹 **[MIRA: AI Mental Health Chatbot](https://github.com/SwarnojitMaitra/MIRA)** – A chatbot for mental health support using Gemini AI<br>
+🔹 **AI-Powered Video Summarizer** – Transcribes, translates & summarizes videos using Whisper & Transformers<br>
+🔹 **Automated Instagram Bot** – AI-driven bot for influencer engagement & marketing<br>
+🔹 **MetaMark: AI Social Media Manager** – Automates content & marketing campaigns with AI
+
+---
+
+### 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/swarnojitmaitra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
+<a href="https://github.com/SwarnojitMaitra" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a><br>
+<a href="mailto:maitras600@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 💡 **Let's connect & build something amazing with AI!** 🚀
 
