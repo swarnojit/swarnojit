@@ -14,10 +14,9 @@
 ### 🔥 Tech Stack
 
 #### 🧠 **AI & ML**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"><br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"><br>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFBB2C?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"><br>   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"><br>   <img src="https://img.shields.io/badge/Hugging%20Face-FFBB2C?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
+
 
 #### 🛠 **Development & Tools**<br>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"><br>
