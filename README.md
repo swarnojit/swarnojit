@@ -4,7 +4,7 @@
 ---
 
 🌟 **About Me**<br>
-🎓 **3rd-year Student** specializing in **Data Science, Machine Learning, Deep Learning, and Generative AI**<br>
+🎓 **4th-year Student** specializing in **Data Science, Machine Learning, Deep Learning, and Generative AI**<br>
 🔍 Passionate about **AI-driven solutions** & developing real-world impactful projects<br>
 🛠️ Love working with **Streamlit, Power BI, and AI-based automation**<br>
 📈 Constantly learning & exploring the latest trends in **AI & Data Science**
